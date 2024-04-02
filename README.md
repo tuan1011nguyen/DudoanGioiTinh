@@ -45,9 +45,7 @@ Ba mô hình học máy khác nhau được sử dụng cho việc phân loại 
 5. Sử dụng kỹ thuật kết hợp stacking để kết hợp các dự đoán từ nhiều mô hình.
 
 ## Người Đóng Góp
-- [Tên Của Bạn]
-- [Người Đóng Góp 2]
-- [Người Đóng Góp 3]
+- Nguyễn Đức Tuấn
 
 ## Giấy Phép
 Dự án này được cấp phép theo [Tên Giấy Phép] - xem tệp LICENSE.md để biết chi tiết.
