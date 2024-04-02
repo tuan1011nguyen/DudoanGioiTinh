@@ -47,8 +47,7 @@ Ba mô hình học máy khác nhau được sử dụng cho việc phân loại 
 ## Người Đóng Góp
 - Nguyễn Đức Tuấn
 
-## Giấy Phép
-Dự án này được cấp phép theo [Tên Giấy Phép] - xem tệp LICENSE.md để biết chi tiết.
+
 
 ## Cảm Ơn
 Đề cập đến bất kỳ tài liệu tham khảo, bộ dữ liệu hoặc hướng dẫn nào bạn thấy hữu ích.
